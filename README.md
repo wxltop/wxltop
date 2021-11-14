@@ -1,6 +1,6 @@
 
 
-## Hi there 👋, I'm wxltop!
+## Hi there 👋, I'm WxlTop!
 
 ## Recent work & study
 
@@ -18,14 +18,4 @@
 <image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wxltop&layout=compact&theme=merko' height= 141></image>
 </b>
 </p>
-
-
-
-
-## Languages and Tools:
-
-<img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/jupyter-notebook.png">
-<img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/github.png">
-<img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/python.png">
-<img height="40" src="https://raw.githubusercontent.com/wangxl12/wangxl12/main/asset/visual-studio-code.png">
 
