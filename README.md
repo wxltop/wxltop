@@ -12,10 +12,10 @@
 
 <p align="center">
 <b>
-<image src='https://github-readme-stats.vercel.app/api?username=wxltop&show_icons=true&theme=merko' height= 141></image>
+<image src='https://github-readme-stats.vercel.app/api?username=wxltop&show_icons=true&theme=merko' height= 130></image>
 </b>
 <b>
-<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wxltop&layout=compact&theme=merko' height= 141></image>
+<image src='https://github-readme-stats.vercel.app/api/top-langs/?username=wxltop&layout=compact&theme=merko' height= 130></image>
 </b>
 </p>
 
